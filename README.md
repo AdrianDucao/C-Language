@@ -1,10 +1,13 @@
-# iyoot
+# C Language Activities
 
-iyoot is just another porn site.
+All syntax and functions you'll ever need for C Programming
 
-## Installation
+## Dependencies
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+get some compiler
+```Ubuntu
+sudo apt install gcc
+```
 
 ```bash
 pip install foobar
