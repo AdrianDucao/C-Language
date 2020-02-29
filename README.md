@@ -5,22 +5,25 @@ All syntax and functions you'll ever need for C Programming
 ## Dependencies
 
 get some compiler
-```Ubuntu
+
+```
+Ubuntu
 sudo apt install gcc
 ```
 
-```bash
-pip install foobar
+```
+Fedora 31
+sudo dnf install gcc
 ```
 
 ## Usage
 
-```python
-import foobar
+```
+Compile
+$ gcc helloworld.c
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+Execute
+$ ./hellowrld
 ```
 
 ## Contributing
