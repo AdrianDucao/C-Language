@@ -17,13 +17,19 @@ sudo dnf install gcc
 ```
 
 ## Usage
-
+Editing code or use whatever text editor you like.
 ```
-Compile
-$ gcc helloworld.c
+$ nano hellworld.cc
+```
 
-Execute
-$ ./hellowrld
+Compiling code
+```
+$ gcc helloworld.c
+```
+
+Executing code
+```
+$ ./helloworld
 ```
 
 ## Contributing
@@ -32,4 +38,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+none
